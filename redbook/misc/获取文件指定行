@@ -1,0 +1,10 @@
+way 1
+    # with open("data/source.txt","r",encoding='utf-8') as f:
+    #     s=islice(f,20,27) 从21行到27行
+    #     for line in s:
+    #         print(line.strip())
+
+way 2
+    # source_txt="data/source.txt"
+    # for l in range(22,28):  从22行到27行
+    #     print(linecache.getline(source_txt,l))

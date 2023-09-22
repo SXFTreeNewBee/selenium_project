@@ -1,0 +1,21 @@
+2023/09/21-13:39:34.479 5090 Reusing MANIFEST D:\programmeproject\pythonproject\scrapyproject\selenium_project\chrome_file\Default\Local Storage\leveldb/MANIFEST-000001
+2023/09/21-13:39:34.481 5090 Recovering log #17
+2023/09/21-13:39:34.483 5090 Reusing old log D:\programmeproject\pythonproject\scrapyproject\selenium_project\chrome_file\Default\Local Storage\leveldb/000017.log 
+2023/09/21-14:12:16.541 324c Level-0 table #21: started
+2023/09/21-14:12:16.550 324c Level-0 table #21: 11222 bytes OK
+2023/09/21-14:12:16.552 324c Delete type=0 #17
+2023/09/21-15:50:16.550 324c Level-0 table #23: started
+2023/09/21-15:50:16.553 324c Level-0 table #23: 11584 bytes OK
+2023/09/21-15:50:16.554 324c Delete type=0 #20
+2023/09/21-17:34:16.550 5090 Level-0 table #25: started
+2023/09/21-17:34:16.557 5090 Level-0 table #25: 11109 bytes OK
+2023/09/21-17:34:16.558 5090 Delete type=0 #22
+2023/09/21-17:34:16.559 5090 Compacting 4@0 + 1@1 files
+2023/09/21-17:34:16.562 5090 Generated table #26@0: 13 keys, 1221 bytes
+2023/09/21-17:34:16.562 5090 Compacted 4@0 + 1@1 files => 1221 bytes
+2023/09/21-17:34:16.562 5090 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/09/21-17:34:16.563 5090 Delete type=2 #16
+2023/09/21-17:34:16.563 5090 Delete type=2 #18
+2023/09/21-17:34:16.563 5090 Delete type=2 #21
+2023/09/21-17:34:16.563 5090 Delete type=2 #23
+2023/09/21-17:34:16.563 5090 Delete type=2 #25
